@@ -1,0 +1,8 @@
+{
+    "reporter" : "mochawesome",
+    "reporter-option" : [
+        "reportDir=report-hasil-test",
+        "reportFilename=[datetime]_test_report",
+        "timestamp=yyy-mm-dd hh-MM-ss"
+    ]
+}
